@@ -84,6 +84,11 @@ publications:
     authors: John E. Doe
     conference: Some conference again, 2018
 
+  - title: title 333 of paper.
+    link: "#"
+    authors: Maria
+    conference: Some conference, 2016
+    
 projects:
   - title: Cool Project 
     link: #
